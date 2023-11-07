@@ -5,7 +5,14 @@ A new Flutter project.
 ## Getting Started
 
 1. What is internationalization
+
 2. Benefits of internationalization
+- Global Reach for your applications
+- Accessibility
+- Better User Experience
+- Store Visibility
+- Competitive Advantage
+
 3. How to add internationalization support to an existing Flutter project
 - Fresh starter project
 - Add dependency: https://pub.dev/packages/easy_localization
@@ -13,4 +20,5 @@ A new Flutter project.
 - Create your JSON language files {language}.{ext}
 - Import the package in main.dart file 
 - Add EasyLocalization widget and initialize easy_localization with the default locale and the path to your localization files
+
 
