@@ -21,4 +21,5 @@ A new Flutter project.
 - Import the package in main.dart file 
 - Add EasyLocalization widget and initialize easy_localization with the default locale and the path to your localization files
 
-
+## Resources:
+YouTube Video: https://www.youtube.com/watch?v=Mvz8ufA0IKk&t=188s&ab_channel=FlutterSync 
