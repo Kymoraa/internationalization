@@ -23,3 +23,4 @@ A new Flutter project.
 
 ## Resources:
 YouTube Video: https://www.youtube.com/watch?v=Mvz8ufA0IKk&t=188s&ab_channel=FlutterSync 
+Medium Article: https://kymoraa.medium.com/internationalisation-i18n-localisation-i10n-in-flutter-4e1f181b37f8 
